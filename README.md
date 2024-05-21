@@ -22,7 +22,7 @@ Python scripting, Data Preprocessing, Visualization, EDA, Streamlit and PowerBI
 - Plotly
 - Power BI
 
-## 📚 Packages and Libraries
+## Packages and Libraries
 ```
 import json
 import pandas as pd
@@ -36,18 +36,18 @@ from streamlit_option_menu import option_menu
 import time
 
 ```
-## 📘 Overview
+## Overview of the Processes:
 
-#### ✂️ Data Extraction :
+####  Data Extraction :
 - Data extraction involved retrieving information from the 2019 Airbnb dataset, comprising property listings with details such as descriptions, pricing, location, and reviews.
 
-#### 🔁 Data Preprocessing & transform:
+#### Data Preprocessing & transform:
 - Utilizing Python, the Airbnb dataset by transformation and preprocessing, resulting in structured DataFrames. This process involved cleaning, organizing, and preparing the data for analysis, ensuring its quality and usability for insights extraction
 
-#### 🗃️ Database Integration:
+#### Database Integration:
 - Pandas is used in Database Integration
 
-#### 📊 Data Visualization And Analysis:
+#### Data Visualization And Analysis:
 - With the assistance of Streamlit and Plotly, a dashboard and charts are created, offering geospatial visualizations and top insights. This setup empowers users to explore and reveal trends within the dataset, facilitating insightful analysis.
 
 Overall it is a wonderful experience working on this project.
